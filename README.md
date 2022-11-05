@@ -16,9 +16,10 @@ Lessons:
 The notebook file will indicate which data set is used for that project. 
 Data set files are in a zip. 
 
+Project: Regression Machine Learning to Predict Concrete Compressive Strength
 
 
 
 
 
-NOTE: Some functions/syntax may have depreciated, these projects are no longer being updated. 
+NOTE: Some functions/syntax may have depreciated, these project files are no longer being updated. 
